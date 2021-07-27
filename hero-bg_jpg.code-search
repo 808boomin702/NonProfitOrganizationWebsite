@@ -1,0 +1,9 @@
+# Query: hero-bg.jpg
+# ContextLines: 1
+
+1 result - 1 file
+
+assets\css\style.css:
+  327    height: 95%;
+  328:   background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg2.jpg") center top no-repeat;
+  329    z-index: 0;
